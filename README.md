@@ -10,3 +10,7 @@ Thinkful Data Science Repertoire -- Juptyer notebooks dedicated to notes, exerci
       - Outlier Detection
       - Missing Value Techniques
       - Model Preparation
+- `SQL` 
+    -  Practice with SQL within Python
+- `A/B Testing` 
+    -  Notes on python syntax for visualization and A/B t-tests
